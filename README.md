@@ -12,8 +12,18 @@
 
 https://github.com/nifanfa/Cosmos-GUI-Sample 
 
+一个高中生竟然是 C# 技术专家，硬着头皮用 C# 从零实现了自己的操作系统。
 
-## 其他 
+## 设计CPU
+
+一个8位二进制CPU的设计和实现 https://www.bilibili.com/video/BV1aP4y1s7Vf?p=1&vd_source=eefa19ed1149679e6ec8d83a6f2eebcc
+
+评论有句话说的很好，这个CPU (8086) 放在50年前就是很顶尖的科技了。
+
+在土木、医学等专业，学50年之前的知识很常见，其实计算机这种经典也值得学习。
+
+
+## 操作系统
 
 自制操作系统的真相 https://www.bilibili.com/video/BV11S4y197zj/
 
