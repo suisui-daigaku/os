@@ -18,3 +18,7 @@ BookOS 2021 - 大学生自制操作系统最新版！ https://www.bilibili.com/v
 
 循序渐进，学习开发一个RISC-V上的操作系统 - 汪辰 - 2021春 https://www.bilibili.com/video/BV1Q5411w7z5/?spm_id_from=333.788.recommend_more_video.2&vd_source=eefa19ed1149679e6ec8d83a6f2eebcc
 
+
+高一学生自制的操作系统——MOOS https://www.bilibili.com/video/BV13B4y1v7sX/?spm_id_from=333.788.recommend_more_video.1&vd_source=eefa19ed1149679e6ec8d83a6f2eebcc
+
+<img width="859" alt="image" src="https://github.com/suisui-daigaku/os-university/assets/20805657/a42e6f2d-d751-41cb-97b4-2fda288576f1">
