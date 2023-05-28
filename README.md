@@ -27,6 +27,12 @@ https://github.com/nifanfa/Cosmos-GUI-Sample
 
 ## 操作系统
 
+现代操作系统：原理与实现（上海交通大学） https://www.bilibili.com/video/BV1B341117Ez?p=3&vd_source=eefa19ed1149679e6ec8d83a6f2eebcc
+
+输入输出设备模型 (串口/键盘/磁盘/打印机/总线/中断控制器/DMA 和 GPU) [南京大学2022操作系统](https://www.bilibili.com/video/BV1cv4y1T7wt/?spm_id_from=333.788.recommend_more_video.0&vd_source=eefa19ed1149679e6ec8d83a6f2eebcc)
+
+从零编写操作系统内核第7课 可编程中断控制器PIC https://www.bilibili.com/video/BV1F7411N7H2/?spm_id_from=333.337.search-card.all.click&vd_source=eefa19ed1149679e6ec8d83a6f2eebcc
+
 自制操作系统的真相 https://www.bilibili.com/video/BV11S4y197zj/
 
 「Coding Master」第20话 扒一扒中断向量表的底裤 https://www.bilibili.com/video/BV1ah411D7vw/?spm_id_from=333.788.recommend_more_video.0&vd_source=eefa19ed1149679e6ec8d83a6f2eebcc
